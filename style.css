@@ -19,10 +19,14 @@ body {
     background-color: #ddd;
     color: #352c2c;
     font-weight: bold;
+    font-size: 23px;
 }
 .header {
     color: rgb(24, 228, 255);
     background: rgb(6, 107, 170);
     padding:10px;
+    box-shadow: 0 0 8px #000;
+    box-shadow: 0 0 8px #fff inset;
+    margin-bottom: 15px;
 
 }
