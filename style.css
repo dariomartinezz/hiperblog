@@ -6,3 +6,8 @@
     background-color: rgb(31, 8, 106);
     color: rgb(143, 15, 255);
 }
+
+.header {
+    color: aqua;
+    background: azure;
+}
