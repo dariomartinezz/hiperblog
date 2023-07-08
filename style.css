@@ -15,7 +15,6 @@ body {
 }
 .container {
     width: 70%;
-    height: 750px;
     box-shadow: 0 0 8px #000;
     background-color: #ddd;
     color: #352c2c;
