@@ -12,4 +12,4 @@
 
 
 
-**puedes aprender en [Platzi](http://platzi "Platzi") tú tambien... pero tienes que pagar:tw-1f3c3:**
+**puedes aprender en [Platzi](http://platzi "Platzi") tú tambien... pero tienes que pagar <3**
